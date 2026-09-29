@@ -1,0 +1,9 @@
+[
+  {
+    "image_name": "portrait.png",
+    "image_label": "Portrait of Medeia",
+    "display_default": true
+  },
+  { "image_name": "medeia-court.jpg", "image_label": "Medeia in court" },
+  { "image_name": "medeia-map.png", "image_label": "Map of the Empire" }
+]
