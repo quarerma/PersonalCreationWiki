@@ -1,9 +1,9 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Default Wiki Name",
+  name: "Arquivo Pessoal de Criação",
   description:
-    "A generic wiki for your RPG game. This is a template that you can use to create your own wiki.",
+    "Um arquivo pessoal de criação para organizar e documentar personagens, mundos e outros elementos de histórias.",
   mainNav: [
     {
       title: "Home",
@@ -15,5 +15,5 @@ export const siteConfig = {
     github: "https://github.com/quarerma/",
     instagram: "https://www.instagram.com/quarerma_/",
   },
-  contactEmail: "your-email@gmail.com",
+  contactEmail: "gabriel.oliveira.quaresma@gmail.com",
 }

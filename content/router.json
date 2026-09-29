@@ -4,7 +4,89 @@
       "url": "medeia",
       "title": "Medeia, Imperatriz do Império Médio",
       "type": "god",
-      "search_words": ["medeia"]
+      "search_words": [
+        "medeia"
+      ]
+    },
+    {
+      "url": "ester",
+      "title": "Ester",
+      "type": "character",
+      "search_words": [
+        "ester"
+      ]
+    },
+    {
+      "url": "florentino",
+      "title": "Florentino",
+      "type": "character",
+      "search_words": [
+        "florentino"
+      ]
+    },
+    {
+      "url": "lyem",
+      "title": "Lyem",
+      "type": "character",
+      "search_words": [
+        "lyem"
+      ]
+    },
+    {
+      "url": "marbari",
+      "title": "Marbari",
+      "type": "character",
+      "search_words": [
+        "marbari"
+      ]
+    },
+    {
+      "url": "zetus",
+      "title": "Zetus",
+      "type": "character",
+      "search_words": [
+        "zetus"
+      ]
+    },
+    {
+      "url": "broto",
+      "title": "Broto",
+      "type": "character",
+      "search_words": [
+        "broto"
+      ]
+    },
+    {
+      "url": "tobias",
+      "title": "Tobias",
+      "type": "character",
+      "search_words": [
+        "tobias"
+      ]
+    },
+    {
+      "url": "daphne",
+      "title": "Daphne",
+      "type": "character",
+      "search_words": [
+        "daphne"
+      ]
+    },
+    {
+      "url": "carlos",
+      "title": "Carlos",
+      "type": "character",
+      "search_words": [
+        "carlos"
+      ]
+    },
+    {
+      "url": "doedric",
+      "title": "Doedric",
+      "type": "character",
+      "search_words": [
+        "doedric"
+      ]
     }
   ]
 }

@@ -11,14 +11,7 @@ interface SearchBarProps {
 }
 const sectionOrder = [
   "character",
-  "adventuring_party",
-  "institution",
-  "organization",
-  "establishment",
-  "god",
-  "entity",
-  "religious-organization",
-  "location",
+  "setting",
 ] as const
 
 // Runtime mapping from page type -> displayed label. Add entries here
@@ -26,14 +19,7 @@ const sectionOrder = [
 // avoiding an exhaustive TypeScript union that needs frequent updates.
 const PAGE_TYPE_LABELS: Record<string, string> = {
   character: "Personagens",
-  location: "Locais",
-  adventuring_party: "Grupos de Aventureiros",
-  god: "Deuses",
-  organization: "Organizações",
-  establishment: "Estabelecimentos",
-  "religious-organization": "Organizações Religiosas",
-  institution: "Instituições",
-  entity: "Entidades",
+  setting: "Mundos",
 }
 
 const pageTypeParser = (type: string) => PAGE_TYPE_LABELS[type] ?? "Páginas"

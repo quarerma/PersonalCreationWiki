@@ -15,8 +15,7 @@ const PAGE_TEMPLATES_DIR = path.join(__dirname, "page-templates")
 
 const INFO_TEMPLATES: Record<string, string> = {
   character: path.join(PAGE_TEMPLATES_DIR, "character-info.json"),
-  location: path.join(PAGE_TEMPLATES_DIR, "location-info.json"),
-  god: path.join(PAGE_TEMPLATES_DIR, "god-info.json"),
+  setting: path.join(PAGE_TEMPLATES_DIR, "setting-info.json"),
 }
 
 function usage(): never {
@@ -24,7 +23,7 @@ function usage(): never {
 
   slug          URL slug and folder name (e.g. "araleth")
   title         Display title (defaults to slug)
-  --type        Page type (e.g. "character", "location")
+  --type        Page type (e.g. "character", "setting")
   --skip-router Create files only, do not update router.json`)
   process.exit(1)
 }
