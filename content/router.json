@@ -3,7 +3,7 @@
     {
       "url": "medeia",
       "title": "Medeia, Imperatriz do Império Médio",
-      "type": "god",
+      "type": "character",
       "search_words": [
         "medeia"
       ]
@@ -86,6 +86,22 @@
       "type": "character",
       "search_words": [
         "doedric"
+      ]
+    },
+    {
+      "url": "mycorem",
+      "title": "Mycorem",
+      "type": "character",
+      "search_words": [
+        "mycorem"
+      ]
+    },
+    {
+      "url": "erudito-pedro",
+      "title": "Erudito Pedro",
+      "type": "character",
+      "search_words": [
+        "erudito-pedro"
       ]
     }
   ]
